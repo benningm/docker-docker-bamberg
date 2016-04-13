@@ -1,0 +1,4 @@
+
+class { 'docker_bamberg':
+}
+

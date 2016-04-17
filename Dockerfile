@@ -1,4 +1,4 @@
-FROM puppet-base:latest
+FROM benningm/puppet-base:latest
 MAINTAINER Markus Benning <ich@markusbenning.de>
 
 ADD Puppetfile /etc/puppet/Puppetfile
